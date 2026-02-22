@@ -63,7 +63,7 @@ Comparative analysis of PCA vs. NMF
 
 Discussion of real-world applications and trade-offs
 
-🛠️ Technologies & Libraries
+Technologies & Libraries
 
 Python 3
 
